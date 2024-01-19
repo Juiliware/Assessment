@@ -1,0 +1,55 @@
+.navbar
+{
+    background-color: antiquewhite;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar a
+{
+    padding: 50px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+.navbar ul
+{
+    list-style: none;
+    background-color: aliceblue;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar li
+{
+    float: left;
+}
+
+.row
+{
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.img
+{
+    height: 50%;
+    width: 50%;
+}
+.cards
+{
+    background-color: white;
+    display: block;
+    margin: 10px,0px;
+    padding: 10px;
+   ;
+}
+#b1
+{
+    align-items: center;
+    justify-content: center;
+    
+}
